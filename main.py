@@ -24,7 +24,7 @@ elif "add" in operation or "+" in operation:
 
 # performs subtraction
 elif "subtract" in operation or "-" in operation:
-    print(f"The substraction of this is {a-b}")
+    print(f"The subtraction of this is {a-b}")
 
 # performs multiplication
 elif "multiply" in operation or "*" in operation:
